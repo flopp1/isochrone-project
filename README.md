@@ -31,10 +31,9 @@ Download Python dependencies
   pip install dash dash-leaflet requests
 ```
 
-Get the OpenTripPlanner binary from [OpenTripPlanner Releases](https://github.com/opentripplanner/OpenTripPlanner/releases) and place it in the repository directory
+Get the OpenTripPlanner binary from [OpenTripPlanner Releases](https://github.com/opentripplanner/OpenTripPlanner/releases) and put it in the repository.
 
-Download [Singapore OpenStreetMap database](https://geo2day.com/asia/singapore.html) and [Singapore GTFS database](https://github.com/thecrapone/singapore-gtfs-2026). 
-Place them in the data folder.
+Download [Singapore OpenStreetMap database](https://geo2day.com/asia/singapore.html) and [Singapore GTFS database](https://github.com/thecrapone/singapore-gtfs-2026) and place them in `data`.
 
 Build graph.obj [Required for first run, thereafter optional, only if there are changes to the OSM/GTFS data]
 
