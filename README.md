@@ -33,7 +33,8 @@ Download Python dependencies
 
 Get the OpenTripPlanner binary: otp-2.5.0-shaded.jar from [OpenTripPlanner Releases](https://github.com/opentripplanner/OpenTripPlanner/releases) and place in the repository directory
 
-Download [Singapore OpenStreetMap database](https://geo2day.com/asia/singapore.html) and [Singapore GTFS database](https://github.com/thecrapone/singapore-gtfs-2026). Rename to singapore-osm.pbf and singapore-gtfs.zip respectively, and place in ./data
+Download [Singapore OpenStreetMap database](https://geo2day.com/asia/singapore.html) and [Singapore GTFS database](https://github.com/thecrapone/singapore-gtfs-2026). 
+Place them in the data folder.
 
 Build graph.obj [Required for first run, thereafter optional, only if there are changes to the OSM/GTFS data]
 
