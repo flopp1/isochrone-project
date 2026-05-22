@@ -11,7 +11,7 @@ Change the memory given to the JVM as seen fit. I have not tested the memory usa
 
 
 
-## Run Locally
+## Usage
 
 Clone the project
 
@@ -31,7 +31,7 @@ Download Python dependencies
   pip install dash dash-leaflet requests
 ```
 
-Get the OpenTripPlanner binary: otp-2.5.0-shaded.jar from [OpenTripPlanner Releases](https://github.com/opentripplanner/OpenTripPlanner/releases) and place in the repository directory
+Get the OpenTripPlanner binary from [OpenTripPlanner Releases](https://github.com/opentripplanner/OpenTripPlanner/releases) and place it in the repository directory
 
 Download [Singapore OpenStreetMap database](https://geo2day.com/asia/singapore.html) and [Singapore GTFS database](https://github.com/thecrapone/singapore-gtfs-2026). 
 Place them in the data folder.
