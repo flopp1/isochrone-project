@@ -16,7 +16,7 @@ Change the memory given to the JVM as seen fit. I have not tested the memory usa
 Clone the project
 
 ```bash
-  git clone https://github.com/flopp1/isochrones
+  git clone https://github.com/flopp1/isochrone-project
 ```
 
 Go to the project directory
